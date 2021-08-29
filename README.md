@@ -1,4 +1,5 @@
-### Hi there 👋
+
+🔭 my blog is available here : https://florentdupont.github.io/
 
 <!--
 **florentdupont/florentdupont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
